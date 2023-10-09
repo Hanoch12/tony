@@ -1,1 +1,2 @@
-hello from git directory
+Hello from Hello.java
+
